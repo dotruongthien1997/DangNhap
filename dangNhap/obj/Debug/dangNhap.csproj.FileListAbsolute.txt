@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\dangNhap\dangNhap\obj\Debug\dangNhap.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\dangNhap\dangNhap\obj\Debug\dangNhap.dangNhap.resources
+C:\Users\Admin\source\repos\dangNhap\dangNhap\obj\Debug\dangNhap.Properties.Resources.resources
+C:\Users\Admin\source\repos\dangNhap\dangNhap\obj\Debug\dangNhap.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\dangNhap\dangNhap\obj\Debug\dangNhap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\dangNhap\dangNhap\bin\Debug\dangNhap.exe.config
+C:\Users\Admin\source\repos\dangNhap\dangNhap\bin\Debug\dangNhap.exe
+C:\Users\Admin\source\repos\dangNhap\dangNhap\bin\Debug\dangNhap.pdb
+C:\Users\Admin\source\repos\dangNhap\dangNhap\obj\Debug\dangNhap.exe
+C:\Users\Admin\source\repos\dangNhap\dangNhap\obj\Debug\dangNhap.pdb
+C:\Users\Admin\source\repos\dangNhap\dangNhap\bin\Debug\XeBus.mdf
+C:\Users\Admin\source\repos\dangNhap\dangNhap\bin\Debug\XeBus_log.ldf
+C:\Users\Admin\source\repos\dangNhap\dangNhap\obj\Debug\dangNhap.QuanLyLuuThong.resources
+C:\Users\Admin\source\repos\dangNhap\dangNhap\obj\Debug\dangNhap.trangChu.resources
+C:\Users\Admin\source\repos\dangNhap\dangNhap\obj\Debug\dangNhap.ThongTinTuyenXE.resources
+C:\Users\Admin\source\repos\dangNhap\dangNhap\obj\Debug\dangNhap.timKiemTaiXe.resources
